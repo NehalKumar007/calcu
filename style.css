@@ -1,0 +1,19 @@
+body {
+  background-color: wheat;
+  margin: auto;
+}
+
+.calculator {
+  margin-top: 20%;
+  margin-right: 200px;
+}
+
+.screen {
+  height: 20px;
+}
+
+.symbol {
+  height: 30px;
+  display: inline-flex;
+  padding: 13px;
+}
